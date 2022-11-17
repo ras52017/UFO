@@ -17,13 +17,12 @@ function buildTable(data) {
       Object.values(dataRow).forEach((val) => {
         let cell = row.append("td");
         cell.text(val);
-        }
-      );
+        });
     });
   }
 
 
-  function handleClick() {
+function handleClick() {
     // Grab the datetime value from the filter
     let date = d3.select("#datetime").property("value");
     let filteredData = tableData;
