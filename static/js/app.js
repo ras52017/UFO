@@ -59,7 +59,7 @@ var filter = {};
   
     // 9. Loop through all of the filters and keep any data that
     // matches the filter values
-    Object.entries(filters).forEach(([key, value]) => {
+    Object.entries(filter).forEach(([key, value]) => {
       filteredData = filteredData.filter(row => row[key] === value);
       });
     
