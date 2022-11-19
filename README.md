@@ -5,14 +5,14 @@
 Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, I added table filters for the city, state, country, and shape. 
 
 ##Results
+
 To use this site, one will have to activate the website and type in the parameters to filter by and then click outside the filter boxes. This will then filter to the selected parameters. To reset, one can refresh the page.
 
 ![image](https://github.com/ras52017/UFO/blob/main/Filtered%20search.jpg)
 
-![image](https://github.com/ras52017/PyBer_Analysis/blob/main/analysis/Weekly%20Sum%20of%20Fares.png))
+![image](https://github.com/ras52017/UFO/blob/main/Unfiltered%20Search.jpg)
 
-![image](https://github.com/ras52017/PyBer_Analysis/blob/main/analysis/Pyber%20Ride%20Summary.png)
-
+##Results
 
 o use this site, one will have to activate the website and type in the parameters to filter by and then click outside the filter boxes. This will then filter to the selected parameters. To reset, one can refresh the page.ivate the website and type in the parameters to filter by and then click outside the filter boxes. This will then filter to the selected parameters. To reset, one can refresh the page. the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.o use this site, one will have to activate the website and type in the parameters to filter by and then click outside the filter boxes. This will then filter to the selected parameters. To reset, one can refresh the page.marizing three business recommendations to the CEO for addressing any disparities among the city types.
 
