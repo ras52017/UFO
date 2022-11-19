@@ -12,9 +12,10 @@ To use this site, one will have to activate the website and type in the paramete
 
 ![image](https://github.com/ras52017/UFO/blob/main/Unfiltered%20Search.jpg)
 
-##Results
+##Summary: 
 
-o use this site, one will have to activate the website and type in the parameters to filter by and then click outside the filter boxes. This will then filter to the selected parameters. To reset, one can refresh the page.ivate the website and type in the parameters to filter by and then click outside the filter boxes. This will then filter to the selected parameters. To reset, one can refresh the page. the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.o use this site, one will have to activate the website and type in the parameters to filter by and then click outside the filter boxes. This will then filter to the selected parameters. To reset, one can refresh the page.marizing three business recommendations to the CEO for addressing any disparities among the city types.
+In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
-1.	The end of the third week of February seems to be the week with the highest total fare for all three cities. The company therefore has the potential of   racking in some profits.
-2.	The fourth week in February also saw a decline in fares for all three cities which can be attributed to the decline.
+1.	The drawback of this new design is that there is no filter button to help filter the parameters.
+
+2.	It will also be good to have a reset botton as well so that filtered parameters can be reste to the baseline design
