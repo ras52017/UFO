@@ -7,7 +7,7 @@ Dana’s webpage and dynamic table are working as intended, but she’d like to 
 ##Results
 To use this site, one will have to activate the website and type in the parameters to filter by and then click outside the filter boxes. This will then filter to the selected parameters. To reset, one can refresh the page.
 
-![image](https://github.com/ras52017/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png))
+![image](https://github.com/ras52017/UFO/blob/main/Filtered%20search.jpg)
 
 ![image](https://github.com/ras52017/PyBer_Analysis/blob/main/analysis/Weekly%20Sum%20of%20Fares.png))
 
